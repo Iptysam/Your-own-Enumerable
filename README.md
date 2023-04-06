@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash 
-git clone https://github.com/Iptysam/Decode-Morse-Message
+git clone https://github.com/Iptysam/Your-own-Enumerable.git
 
 cd decode-morse-code
 ```
@@ -38,11 +38,11 @@ run the program functions
 
 ## Visit And Open Files
 
-[Visit Repo](https://github.com/Iptysam/Decode-Morse-Message)
+[Visit Repo](https://github.com/Iptysam/Your-own-Enumerable.git)
 
 ## Download Repo
 
-[Download Repo](https://github.com/Iptysam/Decode-Morse-Message/archive/refs/heads/main.zip)
+[Download Repo](https://github.com/Iptysam/Your-own-Enumerable/archive/refs/heads/main.zip)
 
 ## Authors
 
