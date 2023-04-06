@@ -37,7 +37,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Implementation of a subset of the functionality of Enumerable.
 
 <details>
   <summary>Client</summary>
