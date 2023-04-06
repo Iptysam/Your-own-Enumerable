@@ -1,50 +1,102 @@
-![](https://img.shields.io/badge/thecodechaser-blueviolet)
+<a name="readme-top"></a>
 
-# Decode Morse Code
+<div align="center">
 
-> Decode morse code is a project with ruby program to decode morse code messages.
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Built With
+  <h3><b>My Enumerable</b></h3>
 
-- Ruby
+</div>
 
-## Getting Started
+# 📗 Table of Contents
 
-To get a local copy up and running follow these simple example steps.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 My Enumerable <a name="about-project"></a>
+
+**My Enumerable** 
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://rubyinstaller.org/downloads/">Ruby</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **[enumerable.rb](enumerable.rb)**
+- **[list.rb](list.rb)**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Not available
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-- A text editor(preferably Visual Studio Code)
 
-### Install
+In order to run this project you need:
+
+- VS Code
 - Ruby
 
-### Using it Locally
+### Setup
 
-- Clone the project
+Clone this repository to your desired folder:
 
-```bash 
-git clone https://github.com/Iptysam/Your-own-Enumerable.git
+git clone gitgithub.com/Iptysam/Your-own-Enumerable.git
 
-cd decode-morse-code
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd <!--
+Example command:
+
+```sh
+  cd my-project
+  install Ruby
 ```
+--->
 
-- To Start the programs
-```bash
-open terminal
-run the command $irb (interactive ruby shell)
-run the program functions
-```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Visit And Open Files
-
-[Visit Repo](https://github.com/Iptysam/Your-own-Enumerable.git)
-
-## Download Repo
-
-[Download Repo](https://github.com/Iptysam/Your-own-Enumerable/archive/refs/heads/main.zip)
-
-## Authors
+## 👥 Authors <a name="authors"></a>
 
 👤 **Iptisam Mukadam**
 
@@ -52,27 +104,45 @@ run the program functions
 - Twitter: [@twitter](https://twitter.com/IptisamMukadam)
 - LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
 
+
 👤 **Abdimulhin Adan**
 
 - GitHub: [@AbdimulhinYussuf3675](https://github.com/AbdimulhinYussuf3675)
 - Twitter: [@abdimulhin](https://twitter.com/abdimulhin)
 - LinkedIn: [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Include animations**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Iptysam/Decode-Morse-Message/issues).
+Feel free to check the [issues page](https://github.com/Iptysam/Your-own-Enumerable/issues)
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project give a star
 
-- Inspiration: Microverse
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank....
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
